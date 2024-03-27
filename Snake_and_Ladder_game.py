@@ -225,8 +225,8 @@ print("* [-1o-] ----> first ladder out")
 print()
 print()
 
-player_A_Name = input("Player A Please enter your name:   ".strip())
-player_B_Name = input("Player B Please enter your name:   ".strip())
+player_A_Name = input("Player A Please enter your name:   ").strip()
+player_B_Name = input("Player B Please enter your name:   ").strip()
 
 
                                 # Code starts from 
